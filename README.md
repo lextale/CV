@@ -1,4 +1,5 @@
-###Curriculum Vitae
+<pre>
+<h3>Curriculum Vitae</h3>
 --------------------
 Name          : Alexandra
 Surname       : Paramytha
@@ -9,3 +10,4 @@ Address       : Corfu, Ionian Islands, Greece, 49100
 Education
 ------------------
 
+</pre>
