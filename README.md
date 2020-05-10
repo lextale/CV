@@ -9,5 +9,8 @@ Address       : Corfu, Ionian Islands, Greece, 49100
 ========================================================
 Education
 ------------------
+Undergraduate Ionian University
+Department of Informatics
+
 
 </pre>
